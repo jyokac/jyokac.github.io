@@ -39,4 +39,4 @@ while(n){
 }
 ```
 
-![img](http://localhost:4000/images/nichijo0407.jpg)
+![img]({{ site.baseurl }}/images/nichijo0407.jpg)
