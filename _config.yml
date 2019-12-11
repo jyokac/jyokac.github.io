@@ -5,20 +5,20 @@ url: "https://yuijam.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: assets/img/avatar.png
+  title: yuijam
+  avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  # header_text: >
+  #    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image:
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  #    <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  # header_text_feature_image:
+  # footer_text: >
+  #  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "Yuijam/yuijam.github.io"
   gitter:
   google_plus:
   instagram:
@@ -74,8 +74,11 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
-markdown: kramdown
 highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
