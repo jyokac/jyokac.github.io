@@ -39,4 +39,4 @@ while(n){
 }
 ```
 
-![img](images/nichijo0407.jpg)
+![img](http://localhost:4000/images/nichijo0407.jpg)
