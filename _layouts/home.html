@@ -3,22 +3,22 @@ layout: default
 ---
 
 <div class="home">
-  {% if site.theme_settings.header_text %}
+  <!-- {% if site.theme_settings.header_text %}
   <div class="call-out"
   style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
     {{ site.theme_settings.header_text }}
   </div>
-  {% endif %}
-
+  {% endif %} -->
+  {% include new_header.html %}
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
-        <h2>
+        <p class="post-title">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title }}
           </a>
-        </h2>
+        </p>
         <p class="meta">
           {{ post.date | date: "%B %-d, %Y" }}
         </p>

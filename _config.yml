@@ -5,7 +5,7 @@ url: "https://yuijam.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: yuijam
+  title: Vol de Nuit
   avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -14,20 +14,20 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Fortune favours the Bold</p>
-  # header_text_feature_image:
+  header_text_feature_image: images/head_bg.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: "yuijam@live.com"
+  email_address:
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "Yuijam/yuijam.github.io"
+  github:
   gitter:
   google_plus:
   instagram:
