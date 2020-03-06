@@ -20,7 +20,9 @@
   border: 1px solid;
   display: inline-block;
   margin: 1em 0;
-  padding: 0.5em 0.75em;
+  padding: 0.2em 0.55em;
+  color: #666;
+  float: right;
 }
 a.button {
   @extend .button-link;
