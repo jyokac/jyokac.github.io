@@ -13,7 +13,7 @@ fi
 filename=${time}-${title}.md
 new_post=_posts/$filename
 cp _sample_post $new_post
-sed -i "s/_title/${title}/g" $new_post
+sed -i "" "s/_title/${title}/g" $new_post
 
 tag_str=''
 if [ ${#tags[@]} -gt 0 ]
@@ -25,5 +25,5 @@ then
     len=${#tag_str}-2
     tag_str=${tag_str:0:len}
 fi
-sed -i "s/_tags/${tag_str}/g" $new_post
+sed -i "" "s/_tags/${tag_str}/g" $new_post
 echo "done!"
