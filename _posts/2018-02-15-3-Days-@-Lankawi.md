@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3-Days-@-Lankawi
-tags: [旅行日记]
+tags: [地球探険家]
 ---
 从槟城的轮渡码头乘船渡海到兰卡威（Lankawi）大约需要3小时，一天只有9:00 am / 2:00 pm两趟船，费用是70RM/人。
 
