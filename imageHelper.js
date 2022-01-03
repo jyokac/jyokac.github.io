@@ -41,7 +41,7 @@ exports.readAllPosts = function () {
     }); });
 };
 var getAllImagePaths = function (str) {
-    var imageTagsReg = /\!\[.*?\].*?(png|jpg)\)/gi;
+    var imageTagsReg = /\!\[.*?\].*?(png|jpg|jpeg)\)/gi;
     var imageTags = str.match(imageTagsReg);
     if (!imageTags) {
         return [];
