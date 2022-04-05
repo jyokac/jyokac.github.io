@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "d64d164fb31487d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c3249ec9ec2af4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-04-05 Some thoughts about yoga　①.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "291ca2d02eb399c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6d21a482b7954f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2efdd6e178ac955b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a78376f8f4b040f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a82a114b9d8f1f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4deaaa7beceec9cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e58d97eba84e4a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-04-05 Some thoughts about yoga　①.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e6c3249ec9ec2af4",
+  "lastOpenFiles": [
+    "2022-04-05 Some thoughts about yoga　①.md",
+    "2021-12-31-土星回归.md",
+    "2018-03-12-悉达多.md",
+    "2022-01-02-Rokkosan.md",
+    "2020-04-20-逝物录.md",
+    "2020-08-05-気分転換.md",
+    "2020-02-07-21-30.md",
+    "2019-09-08-浓雾.md",
+    "2018-02-16-1.5days@penang.md",
+    "2018-03-18-Where.md"
+  ]
+}
