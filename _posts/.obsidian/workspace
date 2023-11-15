@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04-05-Some thoughts about yoga　①.md",
-            "mode": "source"
+            "file": "看见——古埃及女祭司的灵魂旅程（笔记）.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-05-Some thoughts about yoga　①.md",
+                "file": "看见——古埃及女祭司的灵魂旅程（笔记）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e6c3249ec9ec2af4",
   "lastOpenFiles": [
+    "0924秋分四季牌阵.md",
+    "202205透特塔罗笔记（初阶）.md",
+    "Pasted image 20220624232404.png",
+    "202206透特塔罗笔记（高阶）.md",
+    "看见——古埃及女祭司的灵魂旅程（笔记）.md",
+    "202207透特塔罗高阶课程测试题.md",
+    "Pasted image 20220731211216.png",
+    "202206Lon透特塔罗初阶课程测试题.md",
     "2022-04-05-Some thoughts about yoga　①.md",
-    "2020-12-30-Endless Flexibility.md",
-    "2021-12-31-土星回归.md",
-    "2018-03-12-悉达多.md",
-    "2022-01-02-Rokkosan.md",
-    "2020-04-20-逝物录.md",
-    "2020-08-05-気分転換.md",
-    "2020-02-07-21-30.md",
-    "2019-09-08-浓雾.md",
-    "2018-02-16-1.5days@penang.md"
+    "2022-01-02-Rokkosan.md"
   ]
 }

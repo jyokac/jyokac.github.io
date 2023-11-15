@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "d64d164fb31487d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc90269796850db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150de222275d2d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "梅花易数先导课.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "291ca2d02eb399c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6d21a482b7954f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2efdd6e178ac955b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "a78376f8f4b040f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb767328d578d314",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a82a114b9d8f1f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4deaaa7beceec9cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e58d97eba84e4a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "梅花易数先导课.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adfa22f9d07a49f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "150de222275d2d84",
+  "lastOpenFiles": [
+    "梅花易数直播基础课.md",
+    "梅花易数先导课.md",
+    "Pasted image 20231108223526.png",
+    "Pasted image 20231108221915.png",
+    "Pasted image 20231108221549.png",
+    "Pasted image 20231108221049.png",
+    "Pasted image 20231108220918.png",
+    "Pasted image 20231108220751.png",
+    "Pasted image 20231107221126.png",
+    "Pasted image 20231107221051.png",
+    "Pasted image 20231107220915.png",
+    "Pasted image 20231107215427.png",
+    "大天使米迦勒疗愈课.md",
+    "古典占星入门.md",
+    "与大天使米迦勒沟通.md",
+    "大天使米迦勒疗愈.md",
+    "悉达多.md",
+    "德米安.md",
+    "芦田さんの運勢.md",
+    "🔮你接下来要遇见的linghun贵人是谁？.md",
+    "从0开始学会与大天使乌列尔合作.md",
+    "矿石讯息分享：你的心比你的恐惧更强大.md",
+    "与大天使加百列合作开发灵通感知力.md",
+    "被追着问的宠物保护小仪式.md",
+    "从0开始学会与大天使加百列合作.md",
+    "202206透特塔罗笔记（高阶）.md",
+    "6月Advance DNA深度挖掘复训.md",
+    "Advanced DNA-希塔疗愈必修课2.md",
+    "向大天使拉斐尔寻求保护的办法.md",
+    "太古和其他的时间（笔记）.md",
+    "海王星逆行宇宙指引🔮你将揭开怎样的真相.md",
+    "202205透特塔罗笔记（初阶）.md",
+    "肉桂招财～拿捏求职面试机率.md",
+    "看见——古埃及女祭司的灵魂旅程（笔记）.md",
+    "🔮四季牌阵之夏日指引.md"
+  ]
+}
