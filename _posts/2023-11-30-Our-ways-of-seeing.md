@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our ways of seeing｜我们的观看之道
+title: Our ways of seeing
 tags: [看展记]
 ---
 
