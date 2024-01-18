@@ -61,14 +61,15 @@
   }
   .excerpt {
     margin-top: 1em;
-    font-size: 0.8rem;
-    font-weight: 100;
+    font-size: 1rem;
+    font-weight: 300;
     letter-spacing: 0.05rem;
     p {
       img {
         display: block;
         margin: 0 auto;
       }
+      line-height: 2;
     }
     .image-des {
       text-align: center;
