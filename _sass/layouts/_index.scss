@@ -36,13 +36,13 @@
     left: 4rem;
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     .header-bg {
-      height: 70vh;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: center;
+      height: 600px;
       background-image: url(/images/aa/head_bg_sf.jpg);
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-attachment: fixed;
     }
   }
 }
