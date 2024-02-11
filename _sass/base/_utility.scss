@@ -24,6 +24,46 @@
   color: #666;
   float: right;
 }
+
+.more {
+  float: right;
+  position: relative;
+}
+
+.more::after {
+  position: absolute;
+  top: auto;
+  right: auto;
+  bottom: 6px;
+  left: -70px;
+  background-color: black;
+  content: '';
+  height: 1px;
+  width: 58px;
+  transition: left .3s ease;
+}
+
+.more::before {
+  position: absolute;
+  top: auto;
+  left: -25px;
+  bottom: 9px;
+  background-color: black;
+  content: '';
+  height: 1px;
+  transform: rotate(25deg);
+  width: 12px;
+  transition: left .3s ease;
+}
+
+.more:hover::after {
+  left: -60px
+}
+
+.more:hover::before {
+  left: -15px
+}
+
 a.button {
   @extend .button-link;
 }
